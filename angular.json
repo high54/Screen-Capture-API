@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "Screen-Capture-API"
+  "defaultProject": "Screen-Capture-API",
+  "cli": {
+    "analytics": "cbec1ca6-b0cb-48d9-8581-32d84afe758a"
+  }
 }
